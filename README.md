@@ -1,4 +1,6 @@
-### 🌱 I’m currently learning
+### 🌱 I’m currently studing software developer enginner
+## 💬 Ask me about Object Oriented Programing
+## 👯 I'm lookink to collaborate with a new Developers by team
 
 <!--
 **NelsonAlmendares/NelsonAlmendares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
