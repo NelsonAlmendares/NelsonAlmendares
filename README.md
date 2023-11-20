@@ -1,4 +1,4 @@
-<div align="center"><h1>Hello, I am Taranjeet 👋</h1></div>
+<div align="center"><h1>Hello, I am Nelson Almendares 👋</h1></div>
 
 * Currently studying Software Engineering.
 * I worked as a software engineer at 1 year.
