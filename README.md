@@ -10,7 +10,7 @@
 
 ## Connect With Me
 
-I love connecting with people. You can reach out to me via [email](mailto:taranjeet7114@gmail.com).
+I love connecting with people. You can reach out to me via [email](mailto:Nelsonjosealmendares1999@gmail.com).
 
 <a href="https://github.com/NelsonAlmendares" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
