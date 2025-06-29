@@ -1,7 +1,6 @@
 <div align="center"><h1>Hello, I'm Nelson Almendares 👋</h1></div>
 
 * Studying Software Engineering. 💻
-* Worked as a software developer 1 year.
 
 ## Professional Experience 
 * Web Programmer Textufil S.A de C.V 2022 (March to Octover)
